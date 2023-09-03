@@ -1,0 +1,24 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+body {
+    padding:20px;
+    background-color: rgb(241 245 249); 
+}
+
+button {
+    margin-right: 10px
+}
+
+.title-h1 {
+    font-size: 2rem;
+}
+
+/* El link se puede manejar como una etiqueta <a> */
+a { 
+    margin-right: 5px;
+    
+}
